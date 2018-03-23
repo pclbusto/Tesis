@@ -62,7 +62,7 @@ def inicializar(seed):
 
 if __name__== '__main__':
     inicializar(seed)
-    print("Hoal")
+    print("Hsdasoal")
 #
 # int main()
 # {
