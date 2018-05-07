@@ -55,13 +55,39 @@ def inicializar(seed):
     seed = [random.randrange(1) for i in range(256)]
     r = seed[0]
     for i in range(100000):
-        seed[irr] += seed[r >> 24]
+        seed[irr] += seed[r]
         r= seed[irr]
         irr +=1
 
+def condiciones_periodicas():
+    #Se llena el vector vecinos
+    for  index, elemento in mas :
+        elemento = index+1
+    for index, elemento in menos:
+        elemento = index-1
+    mas[:-1] = 0
+    menos[0] = L - 1
 
 if __name__== '__main__':
     inicializar(seed)
+    condiciones_periodicas()
+    for index, elem_cubrimiento, elem_cubri_real, elem_perco_d, elem_perco_r,\
+        elem_perco_u, elem_perco_a, elem_perco_i, elem_p, elem_p2, elem_p4,\
+        elem_u, elem_ji in zip(cubrimiento, cubri_real,perco_D,perco_R,perco_U,perco_A,perco_I,P,P2,P4,U,Ji):
+
+        elem_cubrimiento = 1043768 + 500 * index
+        elem_cubri_real = 0.0
+        elem_perco_D = 0
+        elem_perco_R = 0
+        elem_perco_U = 0
+        elem_perco_A = 0
+        elem_perco_I = 0
+        elem_P = 0.0
+        elem_P2 = 0.0
+        elem_P4 = 0.0
+        elem_U = 0.0
+        elem_Ji = 0.0
+
     print("Hsdasoal")
 #
 # int main()
@@ -493,20 +519,7 @@ if __name__== '__main__':
 #
 #     } // main
 #
-#     void Condiciones_Periodicas(void)
-#     {
-#     int iii, i
-#     / *::
-#         Se
-#     llena
-#     el
-#     vector
-#     vecinos::::::::: * /
-#     for (i=0i < Li++){mas[i]=i+1}
-#     for (i=1i < Li++){menos[i]=i-1}
-#     mas[L-1]=0menos[0]=L-1
 #
-#     }
 #     int ind(int i){
 #     // Devuleve un número entre 0 y N-1.
 #     // Sirve para hacer condiciones circulares de contorno.
