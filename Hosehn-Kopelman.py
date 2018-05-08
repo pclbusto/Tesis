@@ -54,28 +54,33 @@ def inicializar(seed):
     random.seed()
     seed = [random.randrange(1) for i in range(256)]
     r = seed[0]
-    for i in range(100000):
-        seed[irr] += seed[r]
-        r= seed[irr]
-        irr +=1
+    # for i in range(100000):
+    #     seed[irr] += seed[r]
+    #     r= seed[irr]
+    #     irr +=1
 
 def condiciones_periodicas():
+    global mas, menos
     #Se llena el vector vecinos
-    for  index, elemento in mas :
+    for  index, elemento in enumerate(mas):
         elemento = index+1
-    for index, elemento in menos:
+    for index, elemento in enumerate(menos):
         elemento = index-1
-    mas[:-1] = 0
+    mas[L-1] = 0
     menos[0] = L - 1
 
 if __name__== '__main__':
     inicializar(seed)
     condiciones_periodicas()
-    for index, elem_cubrimiento, elem_cubri_real, elem_perco_d, elem_perco_r,\
-        elem_perco_u, elem_perco_a, elem_perco_i, elem_p, elem_p2, elem_p4,\
-        elem_u, elem_ji in zip(cubrimiento, cubri_real,perco_D,perco_R,perco_U,perco_A,perco_I,P,P2,P4,U,Ji):
+    for index, (elem_cubrimiento, elem_cubri_real, elem_perco_d, elem_perco_r) \
+            in enumerate(zip(cubrimiento, cubri_real, perco_D, perco_R)):
+        # ,\
+        # elem_perco_u, elem_perco_a, elem_perco_i, elem_p, elem_p2, elem_p4,\
+        # elem_u, elem_ji
+        # in zip(cubrimiento, cubri_real, perco_D, perco_R, perco_U, perco_A, perco_I, P, P2, P4, U, Ji):
 
         elem_cubrimiento = 1043768 + 500 * index
+        print(elem_cubrimiento)
         elem_cubri_real = 0.0
         elem_perco_D = 0
         elem_perco_R = 0
@@ -87,6 +92,14 @@ if __name__== '__main__':
         elem_P4 = 0.0
         elem_U = 0.0
         elem_Ji = 0.0
+
+    for perco_D, perco_R in zip(perco_D_auxiliar, perco_R_auxiliar):
+        for elem_D, elem_R in zip(perco_D,perco_R):
+            elem_D = 0
+            elem_R = 0
+
+    for ele in cubrimiento:
+        print(ele)
 
     print("Hsdasoal")
 #
