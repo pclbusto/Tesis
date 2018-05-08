@@ -1,6 +1,7 @@
 labels = [];
 n_labels = 0; # length of the labels array
 
+https://gist.github.com/tobin/909424
 
 def uf_initialize(max_labels):
     global  n_labels, labels
