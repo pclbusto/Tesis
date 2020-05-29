@@ -1,0 +1,66 @@
+28/05/2020
+
+https://guelcom.net/origen-chatbots-evolucion-hacia-atencion-cliente/
+
+Hoy en día podemos ir encontrándonos esta novedad de los chatbot en múltiples sectores pero ¿desde cuando están presentes? ¿Son tan nuevos como se piensa?
+
+Los chatbots  tienen la cualidad de ser omnipresente y poder hacer uso de ellos a todas horas todos los días del año. Además están ayudando mucho a la hora de automatizar los negocios. El uso e implantación de estos como nuevo método de innovación en las empresas está repercutiendo en una reducción en las llamadas telefónicas entre las empresas y los clientes siendo sustituidas por conversaciones donde responden a tus dudas inmediatas y, por tanto, el contacto con agentes humanos es menor.
+
+Hay dos teorías sobre la procedencia de estos chatbots:
+
+La primera de ellas, con el matemático Alan Turing en los años 50 cuando empezó a desarrollar los primeros algoritmos para que funcionaran los ordenadores modernos y la inteligencia artificial. El inglés investigó si una máquina era capaz de imitar las respuestas de un humano mediante el estudio de  una conversación de texto entre una máquina y un humano.
+
+La segunda teoría sitúa el origen en el año 1964 con Joseph Weizenbaum, quien creó el primero en considerarse chatbot, Eliza, diseñado para que actuara como un psicólogo/terapeuta. A través de este método, lo que este germano-americano intentaba demostrar era la superficialidad de la comunicación entre el hombre y una máquina, mediante palabras clave y preguntando sobre ellas aunque aún no estaba presente la inteligencia virtual y era una herramienta muy limitada. Eliza funcionada de la siguiente forma: analizaba las palabras clave que tenía el enunciado del emisor para poder responder con las frases que tenia ya registradas.
+
+Si seguimos recorriendo la historia de los chatbots podemos encontrar otros ejemplos como los siguientes:
+
+    Chatterbot creado en 1989 como un jugador virtual de TinyMud que mantenía conversaciones con otros jugadores.
+    Alice (Artificial Linguistic Internet Computer Entity) en 1995 y basándose en Eliza y buscando que la conversación fuera más natural.
+    Clipply en 1997 creado por Windows y convirtiéndose en el primer asistente virtual de ellos.
+    Siri, conocido por ser el primer asistente virtual de Apple en 2011 y quien introdujo la novedad de mantener una conversación hablada, no solo escrita.
+    Watson, también en 2011 y fue creado por IBM, capaz de identificar el lenguaje humano y descomponer las preguntas que le hacen , crear más de una respuesta posible y responder con la más idónea.
+    Cortana, asistente virtual creado por Microsoft en 2014. Fue creado basado en la inteligencia artificial de Halo, un videojuego y ha ido adaptándose a todos los dispositivos con el sistema operativo de Windows.
+    Alexa de Amazon en 2014. Asistente virtual que ha evolucionado cada vez más y es capaz de encontrar información sobre el producto que buscas, hablarte del tiempo que hace, hacerte recordatorios…
+    Google Assistant, el asistente virtual creado por Google en 2016.
+    Bixby, el último en incorporarse en 2017 de la mano de Samsung aunque tiene que ir añadiendo nuevos idiomas.
+
+Incorporación de los voz-bots
+
+La incorporación de los chatbot ha ido evolucionando llegando a incorporarse en múltiples sectores. Una de los nuevos avances desde el origen de los chatbots es la incorporación de la conversación no solo por texto, sino por voz.
+
+Los asistentes virtuales por voz se han convertido en uno de los giros más sonados e innovadores, es un paso más para incorporar o para hacer que la conversación con un chatbot sea más natural y “humana” dentro del uso de la inteligencia artificial en la que están basado.
+
+Para la incorporación de esta novedad, las empresas tecnológicas tienen que contar con un servicio de reconocimiento de voz para poderlo convertir en texto. En este caso de transcribir la información es necesario tener en cuenta tres aspectos:
+
+    Conseguir un adecuado reconocimiento de la voz de quien habla.
+    Poder convertir esa información en una conversación donde participan emisor y receptor.
+    Ser capaz de detectar el vocabulario, que previamente se haya especificado e introducido en el chatbot, cuando haya ruido de fondo.
+
+La incorporación de la voz como innovación en los chatbots.
+
+Con la incorporación de la voz y los avances en tecnología, esta novedad está posicionándose como la experiencia del futuro y poco a poco se está acercando más a los clientes que aún no se sienten cómodos usando los chatbots o hablando con una máquina o un asistente virtual.
+
+Uno de los ejemplos de la incorporación de estos chatbot por voz en el sector de la salud es Bat Bot, el primer chatbot por voz usado para la gestión de guardias hospitalarias.
+
+ 
+Sectores donde encontramos chatbots
+
+Además de ir añadiendo y mejorando las nuevas técnicas al uso de los chatbots nos lleva a ver cómo se está viendo la incorporación de esta técnica en diferentes sectores:
+CHATBOTS EN LA SALUD
+
+Este servicio se ha incorporado para el agilizar los procesos de reservas de citas médicas y con especialistas. Además se usa para procesar datos clínicos, gestionar revisiones y facilitar el día a día de los pacientes y sus familiares cuando tienen que pasar un largo tiempo hospitalizados. Un ejemplo de chatbot en este sector es la incorporación que hizo la Confederación de Afectados por Enfermedad de Crohn y Ulcerosa (ACCU) presentando un asistente virtual para pacientes con enfermedad inflamatoria intestinal.
+CHATBOTS EN LA INDUSTRIA FINANCIERA
+
+El uso de los chatbots en este sector se ha especializado en atención personalizada y para tener un servicio más rápido con los clientes de las entidades financieras. Encontramos bancos que ya usan este servicio como son Caixabank, BBVA y Sabadell. Además la banca mundial aporta dinero en la inversión de inteligencia virtual.
+Unión del sector financiero y los chatbots.
+CHATBOTS EN GESTIÓN COMERCIAL
+
+Este área es donde mayor amplitud hay para el uso de los chatbots y la inteligencia artificial. Permite un ahorro significativo de recursos, es decir, el uso de un chatbot está consiguiendo ganar en eficiencia y dinamismo.  
+CHATBOTS EN EL COMERCIO ELECTRÓNICO
+
+Los chatbots en este área es una solución a las preguntas que todo el mundo se hace en algún momento cuando está comprando por Internet. Puede ayudar a los propietarios para saber cuales son las preguntas más frecuentes y poder solucionar los problemas a sus clientes. Este tipo de chatbots está siendo muy usado en China, donde a través de una conversación con los clientes se puede enseñar mucho sobre su página y ayudarle con el servicio y ventas.
+CHATBOTS EN EL TURISMO
+
+Este sector se convierte en el que mejor ha adaptado el uso de los chatbots. Ofrece miles de oportunidades: desde reservar una estancia, escoger los vuelos, resolver dudas, valorar la experiencia… es el asistente perfecto para los viajes.
+
+La creación de esta herramienta de inteligencia artificial está al alcance de todo tipo de empresas. ¡No tienes porqué ser una gran empresa para poder incluir el uso de un chatbot! Ya hay algunas plataformas a las que se pueden acceder para poder crearlo. Eso es lo que te ofrece Güelcom, una plataforma para la creación de chatbots en hoteles y apartamentos turísticos. Entra y prueba tu experiencia con nosotros.  

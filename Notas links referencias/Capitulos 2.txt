@@ -1,0 +1,52 @@
+		Cap. 2 que explicita el dominio de aplicación, es decir, "el mundo"
+		
+Hace 20 años atrás, el mundo era muy diferente a como es hoy en día. 
+Seguramente si hoy le preguntara un joven de 20 años o menos que es una libreta de direcciones, guías telefónicas, una carta, una postal, un disco compacto, un álbum de foto o incluso como es escribir a mano. Es muy probable que no entienda de que estoy hablando. La tecnología informática desde hace mas de 20 años que ha estado evolucionando hasta lo que se conoce hoy en día. 
+Pasamos de una maquina de escribir a tener infinidades de procesadores de texto para poder escribir, libros, informes o trabajos practicos. Las empresas o comercios comenzaron a tener la necesidad de mejorar sus procesos producción, logística, inventariado, envíos y contabilidad. Todos estos sistemas que nacen de distintas necesidades se alinean bajo un concepto que es ERP (Enterprise Resource Planning – Planificación de Recursos Empresariales). Esto tipo de software tiene a unificar y presentar como un todo, los módulo que se mencionaron anteriormente. A medida que las empresas se fueron actualizando y comenzaron a usar esta tecnología, también comenzaron a crecer. Con el crecimiento uno se expando y muchas veces estas expanciones resultan en tener una compañia distribuída por todo el globo o por todo un país o continente. Los sistemas informáticos necesitaban algo que les permitira comunicarse y poder cubrir esta necesidad. 
+internet 
+ 
+Dejamos de usar el correo para comenzar a enviar correos electrónicos y lo que antes tomaba días ahora son segundos.   
+
+¿Quién no recuerda aquella mesita que decoraba los salones de todo hogar y cuya misión era exclusivamente soportar el teléfono fijo? Pues bien, junto al aparato telefónico, reposaba un pequeño cuadernillo que guardaba los números y direcciones de contacto -escritas a mano- de familiares, amigos y conocidos; así como un libro cuyas páginas de plástico funcionaban como contenedores de tarjetas de visita. Tarjetillas que, por cierto, también han caído en desuso en favor de las firmas de correo personalizadas.
+2. Mandar cartas y postales
+
+En los tiempos de la cultura analógica, no quedaba más remedio que contactar con los seres queridos a través del correo postal. Ni un email, un mensaje a través de las redes sociales, ni siquiera un audio enviado por Whastapp podrán recrear esa increíble sensación de abrir un sobre sellado y desplegar una nueva carta. Y aunque a día de hoy tengamos la opción de sacar una foto y enviarla a tiempo real junto a unas pequeñas palabras, nunca será lo mismo que soltar en el buzón una postal comprada durante las vacaciones.
+3. Las cabinas telefónicas
+
+Aunque aún hoy pueden verse cabinas de teléfono en algunas calles, ya apenas se utilizan y cada vez es más complicado cruzarse con una. Es más, lamentablemente se han convertido más en objeto de frustración vandálica callejera que en una herramienta de comunicación. Cuando todavía el móvil no se ha había convertido en un objeto personal, las cabinas podían sacarnos de más de un apuro en caso de llegar tarde a una cita o ante la necesidad de pedir, por ejemplo, un taxi.
+4. Grabar una canción desde la radio
+
+Lo que ahora no supone mayor esfuerzo que acercar el móvil al altavoz y activar el programa de identificador de audio pertinente, para capturar una canción que sonaba en la radio había que echar mano de la ingeniería pirata: hacernos con una cinta virgen y pulsar el botón de «rec» para grabarla directamente de la emisión. Los locutores radiofónicos, que estaban al tanto de esta práctica, amablemente anunciaban los títulos que iban a sonar con antelación.
+5. Escribir a mano
+
+Los teclados estaban reservados a trabajadores de oficina y especialistas de la informática, de modo que al resto de la humanidad no le quedaba más remedio que ejercitar mano y brazo mediante bolígrafo y papel.
+6. Comprar el periódico
+
+El periódico sigue siendo la compañía de muchos/as durante el desayuno o el café de media mañana. Sin embargo, cada vez menos gente acude al kiosko cada día para adquirir su propio diario. La digitalización ha convertido esta tendencia, si acaso, en una compra más de fin de semana.
+7. El despertador
+
+Resulta raro encontrase con despertadores de reloj digital en las mesillas de noche, pero toparse con uno analógico puede ser una práctica en peligro de extinción. Ya no necesitamos ese trasto que acumula polvo junto a la cama y que, además, nos quita espacio para colocar nuestra nueva alarma 24/7: el móvil.
+8. Los carretes de fotos
+
+Habrá quien ni siquiera haya visto uno y lo cierto cuanto más tiempo pase, menos probabilidades tendrá de conocerlo. El carrete de fotografía analógica va camino de extinguirse en pos del revelado digital.
+9. La cámara compacta
+
+El smartphone ha desbancado a muchos dispositivos, pero si hay uno al que le ha ganado la batalla por completo ésa es la cámara compacta. Hoy en día, los objetivos fotográficos de los móviles nada tienen que envidiar a los de las cámaras diseñadas únicamente a tal fin. Para fotografiar, una ‘reflex’ o cualquier móvil, todo lo demás ¿para qué?
+10. El álbum de fotos
+
+Las redes sociales suponen hoy, entre otras cosas, un expositor de imágenes que han convertido cada perfil de usuario en una colección fotográfica. ¿Cómo se las apañaban para almacenar las fotografías en el pasado? Gracias a los sentimentales álbumes de fotos: libros gigantes que contenían decenas de imágenes y que servían para ilustrar gráficamente los recuerdos.
+11. Programas infantiles en cadenas generalistas
+
+Hace algunos años, las cadenas generalistas de televisión reservaban en su programación matinal un espacio para la infancia. Era común que durante el fin de semana se emitieran programas protagonizados por niños y niñas en los que se sucedías diferentes contenidos animados dirigidos al público infantil.
+12. Libros de recetas
+
+La industria editorial es quizá una de las que mayor transformación ha sufrido con la introducción de Internet en los hogares. Los libros de páginas de papel está siendo sustituidos progresivamente por lectura digital. Asimismo ocurre con los grandes libros de recetas, que paulatinamente han dejado de consultarse dando paso a blogs de cocina y vídeorecetas en espacios web.
+13. Pedir a un desconocido que te saque una foto
+
+¿Dejar tu cámara a alguien que no conoces para que te saque una foto? Imposible, para eso tenemos la cámara frontal o el palo ‘selfie’.
+14. Discos, VHS, cintas y disquetes
+
+El ‘usb’ ha terminado de enterrar los esfuerzos de permanecer en el mercado a dispositivos de almacenamiento como discos compactos (cd), vinilos, casetes, cintas de Video Home System (VHS), disquetes… No obstante, la memoria de almacenamiento en línea parece estar ganando posiciones para desterrar al pendrive.
+15. El atlas y el mapamundi
+
+Los nativos digitales no conocen mapa que no esté incrustado en la web. Actualmente, cuando queremos ubicar un lugar en el mundo, recurrimos a Google Maps. Antes, en cualquier casa colgaba de una pared un enorme atlas o decoraba algún mueble una bola del mundo interactiva.

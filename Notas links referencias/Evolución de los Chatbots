@@ -1,0 +1,216 @@
+29/05/2020
+https://planetachatbot.com/evoluci%C3%B3n-de-los-chatbots-48ff7d670201
+
+Evolución de los Chatbots
+Daniel Cerdas Mendez
+Daniel Cerdas Mendez
+Follow
+Sep 26, 2017 · 15 min read
+Historia de los Chatbots y Asistentes Virtuales
+
+    ELIZA (1964): El primer Bot, desarrollado por Joseph Weizenbaum, en el MIT para la IBM 7094, considerado como el primer bot, capaz de dialogar en inglés sobre cualquier tema [8], Eliza, utilizaba etiquetas para entender los textos y catalogarlos. Además, fue configurada para hablar con los usuarios acerca de sus problemas para ejercer el papel de un psiquiatra.
+
+Eliza
+
+    CHATTERBOT (1989): TinyMud, fue un juego multiusuario sobre calabozos, que incluía conversaciones multiusuario y escenarios simulados. En TinyMud, las computadoras controladoras de jugadores fueron llamadas Bots (como palabra corta de Robots) y eran basadas en ELIZA. ChatterBot, es un jugador virtual de TINYMUD que fue creado para conversar con otros jugadores, explorar los mundos, descubrir nuevas rutas a través de cuartos, contestar preguntas de otros jugadores acerca de navegación. Este Bot, fue exitoso en TinyMud, debido a que se aplicaba la prueba de Turing, ya que todos los jugadores asumían que todos los jugadores eran una persona y no conocían sobre la inteligencia artificial de TinyMud [36].
+
+Publicidad:
+Desarrollo de ChatBots para empresas. Creamos chatbots en WhatsApp, Facebook Messenger, Telegram… Contáctanos en nuestra web.
+
+    ALICE (1995) (Artificial Linguistic Internet Computer Entity) Es un Bot inspirado en Eliza, capaz de colectar ejemplos de lenguaje natural por medio de la web. Utilizaba patrones para administrar la conversación con el usuario [1], además, los datos consistían en objetos llamados AIML, que se encontraban organizados en categorías.
+    Clippy (1997) (Microsoft) El primer agente de conversación disponible en Windows. Microsoft lo diseño para ayudar a las personas a utilizar la herramienta Microsoft Office en 1997 [10], sin embargo Clippy y sus otras personalidades como el mago, el gato, y el perro desaparecieron en versiones posteriores de Office 2003
+
+Cllppy Music Video
+
+    SIRI (2011) (Apple): Es el primer asistente virtual para un teléfono creado por Apple. La empresa Nuance es la encargada del reconocimiento por voz, y junto con los desarrolladores de Apple lograron crear un agente de conversación totalmente amigable que responde a las consultas realizadas como el clima, música, cálculos matemáticos e historia, y conversaciones tipo chip-chat. También Siri utiliza como motor al servicio Google para responder a las consultas de los usuarios que requieran de búsquedas en la web. Gracias al Machine Learning detrás de Siri es que su base de datos del conocimiento, aumenta según sea la cantidad de personas que utilicen el agente virtual[11] y utiliza los datos aportados como pronunciaciones, significados y localidades del lenguaje para mejorar la experiencia del usuario.
+
+Siri Ad
+
+    Watson (2011) (IBM): Es un Sistema inteligente creado por IBM y también es reconocido por competir en el programa Jeoparty; es un sistema cognitivo que identifica el lenguaje con la precision de un ser humano, más veloz y rápido. Watson, es capaz de descomponer las preguntas, crear varias hipótesis de respuestas y responder con la probabilidad mas alta [14].
+
+Watson Contest
+
+    Cortana (2014) (Microsoft): Es el asistente de Microsoft que se ha expandido en los celulares, tabletas, computadoras y consolas de videojuego como Xbox todo esto a través de Windows 10, se encuentra basada en un agente de IA de un juego llamado Halo, este asistente puede aprender y adaptarse basado en la tecnología de Machine Learning [12], esto aprovechado por el motor de Microsoft Bing Satori que se encarga de indexar millones de datos.
+
+Microsoft Cortana Ad
+
+    Alexa (2014): Es el primer asistente virtual creado por Amazon, su principal característica es que se puede utilizar con el parlante inteligente llamado Amazon Echo [44] y permite conocer información sobre clima, productos, compras, recordatorios, e inclusive video llamadas.
+
+Amazon Echo Ad
+
+    Google Assistant (2016): El asistente creado por Google, esta disponible en celulares y en el parlante inteligente llamado Google Home [44], capaz de incluir a otros Chatbots en sus conversaciones, es un asistente proactivo para direcciones e información sobre negocios.
+
+Google Home Ad
+Definición
+
+La palabra Chatbot, proviene de “Chatterbot”, fue un juego de calabozos multiusuario [35], la principal tarea era responder preguntas del usuario acerca de la navegación por el calabozo y este agente simulaba habilidades conversacionales por simples reglas.
+
+Chatbots, son programas de computadoras que pueden interactuar con usuarios utilizando lenguaje natural según la definición de Bayan Abu [1]. Wilks en el 2006 [21] menciona que son un agente cognitivo inteligente que conoce al dueño y a sus hábitos, habla y asiste con simples tareas.
+
+Deen Allison, menciona que los Chatbots son agentes conversacionales, entidades artificiales de conversación capaces de imitar la personalidad humana, interactuar, y responde en sentencias para rastrear una conversación en forma significante para el ser humano [20].
+
+Chayan [21] menciona que los Chatbot son programas que establecen conversiones artificiales a través de entradas de texto, son utilizadas en aplicaciones de servicio al cliente.
+
+Por lo tanto, se puede definir los Chatbot como agentes virtuales multiplataforma capaz de interpretar el lenguaje humano a través de la voz, escritura o captura de imágenes y responder mediante una conversación, además, es posible su interacción con personas y otros Bots disponibles. Los Chatbot, pueden ser fácilmente programados y configurados para ejecutar tareas ante consultas de los usuarios.
+
+Su funcionamiento consta de tres vías:
+
+1. El usuario hace una solicitud vía texto o voz.
+
+2. La solicitud es analizada por el agente y su inteligencia artificial (BackEnd).
+
+3. El agente responde en tiempo real mediante una conversación.
+
+En esta imagen podemos apreciar el crecimiento en términos de búsqueda en la web de la palabra Chatbot según Google Trends en un periodo del 2012 al 2016.
+Google Trends
+
+Dentro de los temas relacionados con la búsqueda de la palabra ChatBot, Google Trends menciona a: ChatBot Tay, Facebook Messenger Chatbot, Tay, Slack ChatBot, Chatbot Twich, TensorFlow, Kik, Alexa, ChatFuel, Deep Learning Chatbot, Racist ChatBot, DouLingo ChatBot y Xiaoice. Esto refleja el crecimiento de las herramientas de desarrollo y bots disponibles en la web.
+
+Ademas existen una serie de conceptos que debe ser comprendidos al momento de hablar sobre Chatbot e inteligencia artificial:
+
+Machine Learning, es un método de análisis de datos que automatiza el modelo para aprender a realizar tareas o entender conceptos y capas de generalizar comportamientos gracias a los datos facilitados. Existe algoritmos como Árbol de decisiones, Naves Bayes, Regresión logística , SVM, métodos ensamblados y algoritmos de cluster [47].
+
+Deep Learning, permite a los modelos computacionales que están compuestos mediante varias capas de procesamiento aprender representaciones de datos, estos métodos de aprendizaje han sido mejorados gracias al reconocimiento del habla, reconocimiento de objetos y el NPL [46].
+Machine Learning Google
+
+Computación cognitiva, ayuda a desarrollar de forma coherente, unificada un mecanismo basado en las capacidades de la mente [45], cuyo objetivo es imitar el funcionamiento del cerebro humano mediante un modelo de computadoras.
+Aplicaciones de Uso
+
+    Medicina: Para la región de China, Microsoft publicó un Chatbot llamado Xiaoice utilizada por alrededor de 40 millones de personas y ha registrado hasta 10 billones de conversaciones [23]. Fue diseñado por desarrolladores y expertos psicológicos para crear un balance entre inteligencia artificial e inteligencia emocional. Este Chatbot, es capaz de memorizar y rastrear el estado emocional de los usuarios e inclusive ofrecer un curso de 33 días de terapia para las personas con problemas en relaciones [23]. Por otro lado IBM, utiliza su servicio de Watson enfocado a medicina para diferentes usos, tales como: oncología, genética, consulta medicina general y cuidados personales [24].
+
+    Servicio al cliente: Estos agentes de conversación, actúan como representantes de servicio al cliente, dando respuestas en lenguaje natural y ofreciendo información más enfocada para la conversación con un usuario [25]. Se requiere que el Chatbot tenga el mismo tono, sensibilidad y comportamiento que un agente de servicio humano, pero también se requiere que procese información más rápida que un ser humano.
+    Aprendizaje: Este tipo de Chatbots, basados en conversaciones, facilitan al estudiante un entrenamiento online en campos como el aprendizaje de una segunda lengua, por ejemplo: TutorBOT [26] utilizaba el rol de asistente de clase para brindar servicios en cualquier momento y además, dentro de sus respuestas incluía los materiales de referencia del curso, diccionarios. Además, facilitaba las conversaciones al tutor para que se midiera el progreso de cada estudiante.
+
+    Entretenimiento: Skype tiene disponible una serie de bots, que permiten desde consultar sobre películas, mostrar noticias, predecir el clima, hasta jugar con el usuario ajedrez y el popular juego UNO. También permite la creación de memes y juegos de trivia [27].
+
+También existen otras categorías, donde se encuentran incursionando los Chatbots con las nuevas plataformas de desarrollo [28]: análisis de datos, comunicación, diseño, desarrollo, educación, administración de archivos, finanzas, comida, salud, soporte técnico, recursos humanos, mercadeo, noticias, pagos, compras, deportes, viajes y utilidades.
+Fashion Chatbot
+Consideraciones éticas
+
+Se deben considerar ciertas modificaciones a los estatutos de derechos humanos, para incluir a la inteligencia artificial [30] y obligarlos a respetar esos estatutos, con el fin de que los robots respeten a cada persona o individuo y a su vez, sea respetado en una forma humana.
+
+Issac Asimov, en 1984 propuso tres leyes de robótica que debería seguir los agentes autónomos [37]:
+
+    Un robot no puede herir a un humano y también un humano no puede dañar un robot.
+    Un robot debe obedecer las ordenes dadas por los humanos, excepto las que generan conflicto con las primeras.
+    Un robot debe proteger su propia existencia y su protección sin existir un conflicto entre la primera y segunda ley.
+
+Por lo tanto, es deber de los desarrolladores y creadores de agentes virtuales que sus proyectos respeten estas tres leyes e incluyan valores como: respecto a la privacidad, transparencia, respetos a valores humanos, libertad y el bien común.
+SPAM Chatbots
+
+Diferentes compañías, realizaron un sobre-uso de los Chatbots en los diferentes salas de chat a inicios del año 2000, aprovechando la comercialización del internet y como resultado aparecieron spam bot como: los Hackers Bot, Scrapers, Spammer y los Impersonators. Anteriormente un operador de Bot, controlaba cientos de Chatbots que enviaban link a miles de usuarios en diferentes salas de chat, lo que permite un negocio muy ventajoso para los sitios que pagan por visitas a sus sitios en internet. También otros Chatbots, se dedicaron a robar datos de usuarios, enviar spam, distribuir malware, y crear ataques de phishing. Para evitar la gran cantidad de este tipo de Bots, se crearon pruebas como el CAPTCHA, sin embargo, estos lograron pasar esas medidas.
+
+Una de las técnicas que desarrollaron para bloquear este tipo de software, fue el análisis y clasificación mediante Log de conversación [29], este test se basa en la prueba de Turing para analizar si es un bot o un humano. Adicionalmente, se analiza los URL compartidos, el tipo de respuesta y las conversacionesy se encontraron diferentes comportamiento en los bot, por ejemplo: Bot Periódicos, Bot Responder, Replay Bots y Replay-Responder Bots [29].
+Caso de Tay: Bot Racista y Xenofóbico
+
+En abril del 2016, Microsoft liberó un Chatbot llamado Tay en la plataforma Twitter, este bot fue programado para comportarse como una joven de 16 años, capaz de aprender lenguaje natural y poder conversar con los otros usuarios. Entre más los usuarios conversaran con Tay, más era la capacidad para aprender sobre las conversaciones [31].
+
+Sin embargo, en menos de 24 horas de estar publicado, Tay publicaba mensajes de odio a los mexicanos, judíos, feministas, amor a Hittler, apoyo al genocidio e inclusive mencionó odiar a todas las personas y en el último tweet de Tay indicó: “estar cansada de la humanidad”. Los usuarios, encontraron ciertas pulgas que le permitieron aprender al bot este tipo de comportamientos y también hubo omisión de parte de Microsoft para filtrar este tipo de ataques [31]. Este suceso, es un gran ejemplo de que tan susceptible puede ser la inteligencia artificial alimentada por personas dañinas e incentiva a crear una discusión mundial acerca de la Ética en la inteligencia artificial y como debe de ser considerada por los desarrolladores de este tipo de herramientas.
+
+Al final, Microsoft decidió retirar el bot mientras realizaba modificaciones, pero Tay fue apagada y retirada definitivamente y sirvió de ejemplo del aprendizaje del Machine Learning, incorporado en el Microsoft Bot Framework lanzado el mes siguiente.
+
+    With artificial intelligence, we are summoning the demon. You know all those stories where there’s the guy with the pentagram and the holy water and he’s like, yeah, he’s sure he can control the demon? Doesn’t work out. Elon Musk
+
+    I’m really optimistic. Technology can always be used for good and bad, and you need to be careful about how you build it, and what you build, and how it’s going to be used. But people are arguing for slowing down the process of building AI — I just find that really questionable. I have a hard time wrapping my head around that. Respuesta de Mark Zuckerberg a Elon Musk sobre sus declaraciones de miedo hacia la inteligencia artificial. 2017
+
+Ventajas de Uso
+
+A. Accesibles: El uso de ChatBots, permite que sean utilizados mediante texto-voz y su respuesta sea en la misma forma considerada como una interfaz universal, lo que facilita que sean accedidos por personas con diferentes discapacidades.
+
+B. Permite conocer el usuario: El uso de Chatbots, permiten enviar información acerca de las palabras más buscadas por el usuario, tipos de compra, comportamiento, fidelidad y le permite poder entrenar mejor el bot para mejorar las respuestas.
+
+C. Disponibilidad: Un servicio como los ChatBots, permiten que el usuario tenga acceso a la información 24/7, por lo tanto, se requiere una infraestructura siempre disponible.
+
+D. No requiere operadores humanos: No es necesario la intervención de un ser humano para cada sesión de chat, pero en ocasiones, es necesario que el Chatbot sea entrenado y tenga un humano controlador para brindar las respuestas que no logra entender. El costo de un agente virtual, según una investigación publicada por la agencia Forrester [32], cuesta alrededor de un $1 o menos, mientras un agente humano cuesta $5 o más.
+
+E. Información rápida: Los usuarios requieren respuestas rápidas y exactas, sino abandonan la plataforma. Esta facilidad, es la gran ventaja de los Chatbots debido a que puede tener abiertas “N” cantidad de sesiones.
+
+F. No requiere instalar nuevas apps: Debido a las limitaciones de los dispositivos móviles (memoria RAM, batería y almacenamiento), así­ como el hecho de estar cambiando entre apps se ha comprobado que los usuarios no quieren nuevas apps. Según la investigación de Forrester, estima que el 80% de los usuarios utilizan su tiempo en solamente 5 apps y en su mayoría son aplicaciones de mensajería [32]. Mientras que las aplicaciones móviles son difícil de mantener, distribuir y crear.
+
+G. Conversaciones como interfaz: Los Chatbots, son la nueva era de aplicaciones debido a que pueden funcionar en cualquier dispositivo, la forma del usuario para introducir datos y obtener datos es mediante una conversación. La conversación es considerada más natural que el hecho de realizar clic en botones, además ellos pueden responder con videos, imágenes y audios. Las interacciones con texto, son rápidas, divertidas, flexibles, intimas y más descriptivas que otras interfaces de usuario.
+Estado Actual
+
+Actualmente nos encontramos en 4 nuevos paradigmas de la era del internet y los dispositivos móviles
+
+    Las Conversaciones son la nueva interfaz de Usuario.
+    Los Bots son las nuevas aplicaciones.
+    La inteligencia artificial es el nuevo protocolo.
+    Las aplicaciones de mensajería son el nuevo buscador.
+
+El crecimiento actual de la plataforma y desarrollo de bots, se debe al uso de herramientas de mensajería en dispositivos móviles, computadoras y consolas de video juegos y parlantes inteligentes como Alexa. También la mensajería se ha convertido en el servicio de internet más usado, inclusive sobrepasando las redes sociales.
+
+Las aplicaciones de mensajería, concentran la mayor cantidad de usuarios activos en el internet, por ejemplo Whatsapp cuenta con 1 billón de Usuarios, Facebook Messenger con 800 millones de Usuarios, Skype con 300 millones de usuario y Snapchat con 100 millones de Usuarios, para aprovechar que los usuarios pasan más tiempo utilizando sus aplicaciones estas empresas han invertido en el campo de los Chatbot e inteligencia artificial.
+
+En el cuadro anterior, podemos observar como en el primer cuatrimestre del año 2015, las cuatro mayores aplicaciones de mensajería aumentaron la cantidad de usuarios activos.
+
+En la actualidad, las herramientas permiten ofrecer dos tipos de Chatbots según sea la finalidad del desarrollador:
+
+1. Funciones basadas en Inteligencia artificial:
+
+    Entienden y procesan el lenguaje NPL
+    Interactúan en una forma humana.
+    Capaz de mejorar respuestas, según sea el entrenamiento.
+    Capaz de ofrecer varios servicios al cliente.
+
+2. Funciones basadas en reglas:
+
+    No requiere inteligencia artificial
+    Entrenados para realizar solamente una cosa
+    Son tan inteligentes como sean programados
+    Se comunican en una manera estructurada
+    Orientados por comandos.
+
+Google, Facebook, Microsoft y Amazon, han iniciado la carrera por esta nueva era de la comunicación con la adquisición de Startups que se especializan en el reconocimiento de voz, reconocimiento de patrones, reconocimiento de imágenes y desarrollo de inteligencia artificial.
+Referencias
+
+[1] Abu Shawar, B., & Atwell, E. (2007). Chatbots: are they really useful? LDV-Forum: Zeitschrift für Computerlinguistik und Sprachtechnologie, 22(1), 29–49. https://doi.org/10.1.1.106.1099
+
+[8] Hirschberg, J., & Manning, C. D. (2015). Advances in natural language processing. Science, 349(6245), 261–266. https://doi.org/10.1126/science.aaa8685
+
+[10] Watters, A. (2016). Clippy and the History of the Future of Educational Chatbots. Hack Education Weekly News. Recuperado a partir de http://hackeducation.com/2016/09/14/chatbot
+
+[11] Aron, J. (2011). How innovative is Apple’s new voice assistant, Siri? New Scientist, 212(2836), 24. https://doi.org/10.1016/S0262-4079(11)62647-X
+
+[12] Jo-Foley, M. (2013). «Cortana»: More on Microsoft’s next-generation personal assistant. ZDNet}. Recuperado a partir de http://www.zdnet.com/cortana-more-on-microsofts-next-generation-personal-assistant-7000020602/
+
+[13] Gallagher, S. (2012). How Google and Microsoft taught search to «understand» the Web. Ars Technica. Recuperado a partir de http://arstechnica.com/information-technology/2012/06/inside-the-architecture-of-googles-knowledge-graph-and-microsofts-satori/
+
+[14] High, R. (2012). The Era of Cognitive Systems: An Inside Look at IBM Watson and How it Works. International Business Machines Corporation, 1(1), 1–14. Recuperado a partir de http://www.redbooks.ibm.com/redpapers/pdfs/redp4955.pdf
+
+[20] Allison, D. (2012). Chatbots in the library: is it time? Library Hi Tech, 30(1), 95–107. https://doi.org/10.1108/07378831211213238
+
+[21] Wilks, Y. (2005). Artificial companions. Interdisciplinary Science Reviews, 30(2), 145–152. https://doi.org/10.1179/030801805X25945
+
+[23] Milani, R. V., & Franklin, N. C. (2017). The Role of Technology in Healthy Living Medicine. Progress in Cardiovascular Diseases, 59(5), 487–491. https://doi.org/10.1016/j.pcad.2017.02.001
+
+[24] IBM. (2017). Watson for Oncology. Recuperado 31 de marzo de 2017, a partir de https://www.ibm.com/watson/health/oncology-and-genomics/oncology/
+
+[25] Jenkins, M.-C., Churchill, R., Cox, S., & Smith, D. (2007). Analysis of User Interaction with Service Oriented Chatbot Systems. Human-Computer Interaction, 4552, 76–83. https://doi.org/10.1007/978-3-540-73110-8_9
+
+[26] Lu, C., Chiou, G., Day, M., & Ong, C. (2006). Using instant messaging to provide an intelligent learning environment. Intelligent Tutoring Systems, 575–583. Recuperado a partir de http://www.springerlink.com/index/y511878064h24318.pdf
+
+[27] Microsoft. (s. f.). BOT Skype Available. Recuperado 1 de abril de 2017, a partir de https://support.skype.com/en/faq/FA34655/what-skype-bots-are-available
+
+[28] List, B. (2017). BOT List. Recuperado 1 de abril de 2017, a partir de https://botlist.co
+
+[29] Gianvecchio, S., Xie, M., Wu, Z., & Wang, H. (2011). Humans and bots in internet chat: Measurement, analysis, and automated classification. IEEE/ACM Transactions on Networking, 19(5), 1557–1571. https://doi.org/10.1109/TNET.2011.2126591
+
+[30] Anonymous. (2015). Ethics of artificial intelligence. Nature, 521(7553), 415–418. https://doi.org/10.1038/521415a
+
+[31] Beres, D. (2016). Why Microsoft’s Racist Chat Bot Catastrophe Was Kind Of A Good Thing. Recuperado 1 de abril de 2017, a partir de http://www.huffingtonpost.com/entry/microsoft-tay-racist_us_56f556e5e4b0a3721819bd15
+
+[32] Forrester Research, I. (2009). It’s Time To Give Virtual Agents Another Look. Online. Recuperado a partir de Forrester Research, I. (2009). It’s Time To Give Virtual Agents Another Look. Online.
+
+[35] Perez-Marin, D. (2011). Conversational Agents and Natural Language Interaction. Conversational Agents and Natural Language Interaction: Techniques and Effective Practices. Recuperado a partir de http://www.scopus.com/inward/record.url?eid=2-s2.0-84867490969&partnerID=tZOtx3y1
+
+[36] Mauldin, M. L. (1994). ChatterBots, TinyMuds, and the Turing test: Entering the Loebner Prize competition. In Proceedings of the Twelfth National Conference on Artificial intelligence (vol. 1) (pp. 16–21). Seattle, WA: American Association for Artificial Intelligence.
+
+[37] Anderson, S. L. (2008). Asimov’s «Three Laws of Robotics» and machine metaethics. AI and Society, 22(4), 477–493. https://doi.org/10.1007/s00146-007-0094-5
+
+[44] Ebling, M. R. (2016). Can Cognitive Assistants Disappear?. IEEE Pervasive Computing, 15(3), 4–6.
+
+[45] Modha, D. S., Ananthanarayanan, R., Esser, S. K., Ndirango, A., Sherbondy, A. J., & Singh, R. (2011). Cognitive computing. Communications of the ACM, 54(8), 62–71.
+
+[46] LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436–444.
+
+[47] Sebag, M. (2014). A tour of machine learning: An AI perspective. Ai Communications, 27(1), 11–23.
