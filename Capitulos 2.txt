@@ -23,75 +23,15 @@ En esta época es cuando toman mas fuerzas las campañas de marketing vía telef
 El uso y conceto de CRM comienza a propagarse hacia otros rubros como salud y comercio y tener estos sistemas se vuelve mas barato y común.
 A principios de los  1990s este tipo de marketing madura en un proceso automatizado, es decir que mediante un CRM se podía tener una trasabilidad desde la creación de un contacto u oportunidad hasta poder concretar ventas. Sin embargo el concepto de CRM se lo usa por primera vezen 1995.
 En 1997, CRM comienza a incorporar caracteristicas de (ERP) y a fines de los 90 CRM tiene sus primeras versiones online. En 1999, Siebel lanza el primer CRM para dispoitivos moviles. Varias emoresas mas como Oracle o SAP hacen lo suyo pero todas fracasan debido a que en ese momento los dispositivos mobiles no tenían la aceptación qu se tiene hoy en día.
+En 19999 llega la nube y las empresas encuentran con esta tecnología una alternativa mas barata que los sistemas on-premise, surge el concepto de software como un sevicio y lo que en un principio incia como un sistema pequeño, escala lo suficiente para que grandes empresas vean este tipo de sistema como algo que se aducua a sus necesidades y comienzan a migrar a la nube.
+A principio del 2000 muchas empresas .com ven la quiebra, esto es lo que se conoció como las burbujas punto com. Muchas empresas del ambito de CRM se vieron perjudicadas por esto y le permitió a microsoft meterse en este rubro. Mediante una fusión de productos como office y outlook, nace Microsoft Dynamics el cual rapidamente se posicionó como un referente a todo lo que respecta CRM-.
+A mediados del 2000 una empresa llamada SugarCRM libera lo que se conoce como Sugar Community Edition, es un CRM de codigo abierto y que inicialmente corria en linux, con el servidor Apache. Este evento marca un ito en el sentido que muchas empresas toman como el estandar basado en la implemtación liberada por esta empresa.
+En el 2006 amazon introduce al mercado EC2 y S3, el primero es poner a disposición de los clientes poder computacional mientras que el segundo almacenamiento en la nuebe. Esto hace que muchas empresas evaluen migrar su infra estructura a la nube abaratando costos de mantemiento e inversion en mas poder de procesamiento.
+En 2007 la empresa Salesforce.com plantea un CRM que corre en la nube y que tiene la flexibilidad para poder adaptarse a la mayoria de los requerimientos de las empresas. 
+A fines del 20000 Los CRM comienzan a ver las redes sociales como un medio para poder mejorar la interacción con los clientes. Con las mejoras en las tecnología de la nube muchas pequeñas empresas comienzan a incrsionar en el mercado de CRM. 
+Actualmente los software CRM se enfocan en tres grandes areas
+* La incursión en redes sociales a permitido la obtención de indicadores cada vez mas complejos y pasar de analizar la cantidad de veces que se comportió un contendido o cuantas veces se le dió "me gusta" a una publicacion a incluso evaluar los comentarios sobre las publicaciones. Lo cual permite construir perfiles de usuarios mas complejos que describan su compartamiento en las redes sociales.
+* Los CRM con este enfoque en las redes sociales, permite hacer publicaciones con contenido mas especifo para cada cliente. Mirando el caso por caso y no pensando en contenidos mas generales. 
+* Los CRM en dispositivbos mobiles estan ganando cada vez mas campo y los usuarios usan cada vez mas estos dispositivos para hacer uso de estos sistemas. Por lo cual esta se espera que esta plataforma se la dominante en un futuro no muy lejano.
 
-1999 saw the advent of cloud CRM. Companies found cloud services a cheaper alternative to expensive on-premise systems. Salesforce.com introduced the first Software-as-a-Service (SaaS) CRM. Initially, SaaS CRM was suitable only for small businesses. But later it scaled up to more powerful systems and large enterprises also started using cloud software.
-Early 2000s – Many dotcoms go bust
 
-The dotcom bubble burst in the early 2000s which affected the sales of CRM products as well as their development. By 2003, Microsoft merged CRM with its legacy systems MS Office and Outlook to create its own CRM program. Microsoft Dynamics has become a leading player in the CRM industry.
-Mid- to late 2000s – Cloud-based CRM becomes popular; open source CRM is launched
-
-SugarCRM pioneered open-source enterprise systems in 2004. This enabled companies to use CRM much more cheaply compared to the cost of on-premise applications. SugarCRM later launched a cloud-based version which has become a standard feature in the CRM industry
-
-In 2006, Amazon introduced EC2/S3 and even rented out computer power to companies that helped them save money by not spending on expensive powerful servers.
-
-In 2007, Salesforce.com’s combined its cloud-based application development program with SaaS developer partners to convince users that web-based CRM could be customized and used for specific business requirements.
-Late 2000s – The age of social CRM
-
-This period saw CRM shifting from the transactional model to interaction relationship. Businesses started using social media strategies to interact more closely with their customers. With quicker internet connectivity and more robust cloud infrastructure, more small players from different countries started entering the CRM market.
-The Present and future
-
-Today’s CRM software is focused on three main areas that could well be the future of this type of software.
-
-First, CRM has gone social and many software programs provide social media analytics beyond monitoring the number of shares and likes. CRM software programs are likely to focus on developing deeper customer profiles that includes their digital behavior across social networks.
-
-Second, social CRM enables companies to improve their content marketing to offer relevant content to specific customers on a case-by-case basis.
-
-Finally, mobile CRM is likely to take off as more and more users access CRM data on their smartphones and tablets on the go. Thus, mobile CRM is likely to be the next wave in the continuing evolution of CRM software.
-
-internet 
- 
-Dejamos de usar el correo para comenzar a enviar correos electrónicos y lo que antes tomaba días ahora son segundos.   
-
-¿Quién no recuerda aquella mesita que decoraba los salones de todo hogar y cuya misión era exclusivamente soportar el teléfono fijo? Pues bien, junto al aparato telefónico, reposaba un pequeño cuadernillo que guardaba los números y direcciones de contacto -escritas a mano- de familiares, amigos y conocidos; así como un libro cuyas páginas de plástico funcionaban como contenedores de tarjetas de visita. Tarjetillas que, por cierto, también han caído en desuso en favor de las firmas de correo personalizadas.
-2. Mandar cartas y postales
-
-En los tiempos de la cultura analógica, no quedaba más remedio que contactar con los seres queridos a través del correo postal. Ni un email, un mensaje a través de las redes sociales, ni siquiera un audio enviado por Whastapp podrán recrear esa increíble sensación de abrir un sobre sellado y desplegar una nueva carta. Y aunque a día de hoy tengamos la opción de sacar una foto y enviarla a tiempo real junto a unas pequeñas palabras, nunca será lo mismo que soltar en el buzón una postal comprada durante las vacaciones.
-3. Las cabinas telefónicas
-
-Aunque aún hoy pueden verse cabinas de teléfono en algunas calles, ya apenas se utilizan y cada vez es más complicado cruzarse con una. Es más, lamentablemente se han convertido más en objeto de frustración vandálica callejera que en una herramienta de comunicación. Cuando todavía el móvil no se ha había convertido en un objeto personal, las cabinas podían sacarnos de más de un apuro en caso de llegar tarde a una cita o ante la necesidad de pedir, por ejemplo, un taxi.
-4. Grabar una canción desde la radio
-
-Lo que ahora no supone mayor esfuerzo que acercar el móvil al altavoz y activar el programa de identificador de audio pertinente, para capturar una canción que sonaba en la radio había que echar mano de la ingeniería pirata: hacernos con una cinta virgen y pulsar el botón de «rec» para grabarla directamente de la emisión. Los locutores radiofónicos, que estaban al tanto de esta práctica, amablemente anunciaban los títulos que iban a sonar con antelación.
-5. Escribir a mano
-
-Los teclados estaban reservados a trabajadores de oficina y especialistas de la informática, de modo que al resto de la humanidad no le quedaba más remedio que ejercitar mano y brazo mediante bolígrafo y papel.
-6. Comprar el periódico
-
-El periódico sigue siendo la compañía de muchos/as durante el desayuno o el café de media mañana. Sin embargo, cada vez menos gente acude al kiosko cada día para adquirir su propio diario. La digitalización ha convertido esta tendencia, si acaso, en una compra más de fin de semana.
-7. El despertador
-
-Resulta raro encontrase con despertadores de reloj digital en las mesillas de noche, pero toparse con uno analógico puede ser una práctica en peligro de extinción. Ya no necesitamos ese trasto que acumula polvo junto a la cama y que, además, nos quita espacio para colocar nuestra nueva alarma 24/7: el móvil.
-8. Los carretes de fotos
-
-Habrá quien ni siquiera haya visto uno y lo cierto cuanto más tiempo pase, menos probabilidades tendrá de conocerlo. El carrete de fotografía analógica va camino de extinguirse en pos del revelado digital.
-9. La cámara compacta
-
-El smartphone ha desbancado a muchos dispositivos, pero si hay uno al que le ha ganado la batalla por completo ésa es la cámara compacta. Hoy en día, los objetivos fotográficos de los móviles nada tienen que envidiar a los de las cámaras diseñadas únicamente a tal fin. Para fotografiar, una ‘reflex’ o cualquier móvil, todo lo demás ¿para qué?
-10. El álbum de fotos
-
-Las redes sociales suponen hoy, entre otras cosas, un expositor de imágenes que han convertido cada perfil de usuario en una colección fotográfica. ¿Cómo se las apañaban para almacenar las fotografías en el pasado? Gracias a los sentimentales álbumes de fotos: libros gigantes que contenían decenas de imágenes y que servían para ilustrar gráficamente los recuerdos.
-11. Programas infantiles en cadenas generalistas
-
-Hace algunos años, las cadenas generalistas de televisión reservaban en su programación matinal un espacio para la infancia. Era común que durante el fin de semana se emitieran programas protagonizados por niños y niñas en los que se sucedías diferentes contenidos animados dirigidos al público infantil.
-12. Libros de recetas
-
-La industria editorial es quizá una de las que mayor transformación ha sufrido con la introducción de Internet en los hogares. Los libros de páginas de papel está siendo sustituidos progresivamente por lectura digital. Asimismo ocurre con los grandes libros de recetas, que paulatinamente han dejado de consultarse dando paso a blogs de cocina y vídeorecetas en espacios web.
-13. Pedir a un desconocido que te saque una foto
-
-¿Dejar tu cámara a alguien que no conoces para que te saque una foto? Imposible, para eso tenemos la cámara frontal o el palo ‘selfie’.
-14. Discos, VHS, cintas y disquetes
-
-El ‘usb’ ha terminado de enterrar los esfuerzos de permanecer en el mercado a dispositivos de almacenamiento como discos compactos (cd), vinilos, casetes, cintas de Video Home System (VHS), disquetes… No obstante, la memoria de almacenamiento en línea parece estar ganando posiciones para desterrar al pendrive.
-15. El atlas y el mapamundi
-
-Los nativos digitales no conocen mapa que no esté incrustado en la web. Actualmente, cuando queremos ubicar un lugar en el mundo, recurrimos a Google Maps. Antes, en cualquier casa colgaba de una pared un enorme atlas o decoraba algún mueble una bola del mundo interactiva.
