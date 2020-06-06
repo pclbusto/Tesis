@@ -53,6 +53,11 @@ Uno de los ejemplos de la incorporación de estos chatbot por voz en el sector d
 
 chats
 
+La palabra de mensaje instantaneo (inglés instant messaging) comenzó a usarse en los 90, sin embargo el concepto se lo manjenba desde mucho antes. Para ser mas precisos a mediados de los 60. Sistemas operativos como el CTSS (Compatible Time-Sharing System) , permitía hasta 30 usuarios ingresar al sistema al mismo tiempo e intercabiar mensajes entre ellos. Si bien se considera este sistema el precursor del chat, era mas simil a un intercambio de mails mas que a un chat, sin embargo este sistema introdujo conceptos que luego fueron incluidos en software de chats.
+En 1970, se trabajo en el protocolo peer-to-peer, mediante esto se hacen las primeras comuncicasionces entre usuarios que estan en la misma computadora. 
+
+
+ 
 Instant messaging (IM), form of text-based communication in which two persons participate in a single conversation over their computers or mobile devices within an Internet-based chatroom. IM differs from “Chat,” in which the user participates in a more public real-time conversation within a chatroom where everyone on the channel sees everything being said by all other users.
 
 In its simplest form, instant messaging (IM) seeks to accomplish two goals: monitoring presence for the purpose of sending presence-based alerts to users in the chatroom and messaging. The software relies on a central server or servers to monitor presence. When a user logs on to an IM system, the login is recognized, and other online users who have that address listed as a “buddy,” or friend, are notified of the user’s presence. The software establishes a direct connection between users so they can talk to each other synchronously, in real time. IM has a long history, but it has only been in the late 1990s that IM applications have come to the forefront, due to ongoing battles between commercial ventures engaged in its development.
