@@ -66,6 +66,11 @@ En el año 2000 comienza a ganar renombre el protocolo jabber que depués cambio
 en el 2002 Apple se suma desarrollando Ichat y mantiene un ecosistema de mensajeriaía entre todos sus dispositivos. Actualmente la app se llama Messages.
 2003 nace skyper y si bien su aplicaión soportaba mensajería este servicio se ve opacado por sus servicios de video conferencias. 
 En el 2005 google lanza Google Talk. sin embargo su popularidad no fue muy grande.
+En esa época Facebook  comenzaba a ganar fama y en el 2008 incluye el servicio de mensajería. En el 2011 agrega soporte para vídeo llamadas.
+Hasta el año 2012 la plataforma que dominaba la mensajería era el mensaje de texto sin embargo a partir de este año la proliferación de teléfonos móviles ya era más que importante y hay un cambio en la plataforma. se deja de lado el SMS y comienza a usarse mensajerías  mediante internet. Una de las más famosas whatsapp.
+El tuyo estadísticos muestran que generación de generaciones del 70 la verdad están muy influenciadas o hace mucho gusto tan servicio de mensajería como que se está dejando de lado la llamada o el el mail en voz de usar algún tipo de mensajería instantánea 
+
+
 
 Como caracteristica relevante este cliente permitia tener acceso a servicios de menjería variados. 
 Yahoo launched  in 1998, originally under the name Yahoo! Pager. Used with a user's Yahoo! ID, Yahoo! Messenger included customized "IMVironments," address book integration and custom status messages. Like AOL, Yahoo had a chat room service.
