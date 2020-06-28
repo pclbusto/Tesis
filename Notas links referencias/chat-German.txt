@@ -1,3 +1,32 @@
 el mundo de la internet, 
 de los sistemas que funcionan en red/nube,
  luego empresas que gestionan según sistemas, internamente y en conexión extramuros con proveedores y clientes, CRMs, ERPs, etc, los distintos canales de comunicación, blogs, pagos, órdenes de compras, entregas, etc.
+ 
+ 
+ [12:39 p. m., 28/5/2020] Germán Montejano: Perfecto
+[12:39 p. m., 28/5/2020] Germán Montejano: Tenés la Tesis finalizada
+[12:41 p. m., 28/5/2020] Germán Montejano: Escribí el Cap. 2 que explicita el dominio de aplicación, es decir, "el mundo" en el cual se circunscribe el trabajo
+[12:41 p. m., 28/5/2020] Germán Montejano: Cap. 3 describí todas las tecnologías que usas.
+[12:42 p. m., 28/5/2020] Germán Montejano: Cap. 4 los requerimientos y toda la narrativa de lo que se necesita solucionar y construir.
+El mundo referido a tecnologías o referido a las necesidades por lo que se mete un bot?
+[12:47 p. m., 28/5/2020] Germán Montejano: De mayor a menor, top-down, el mundo de la internet, de los sistemas que funcionan en red/nube, luego empresas que gestionan según sistemas, internamente y en conexión extramuros con proveedores y clientes, CRMs, ERPs, etc, los distintos canales de comunicación, blogs, pagos, órdenes de compras, entregas, etc.
+Hasta que al final, de todo ese mundo, decís que profundizas en ... el tema objeto de tu tesis.
+[12:47 p. m., 28/5/2020] Germán Montejano: El cap. 3 es tecnologías
+[12:48 p. m., 28/5/2020] Germán Montejano: Esta pregunta son 2 capitulos: el 2 y el 3
+[12:50 p. m., 28/5/2020] Germán Montejano: Cap. 5 la solución al problema, el diseño, la Arquitecta, los objetos, la construcción, documentación del desarrollo
+[12:50 p. m., 28/5/2020] Germán Montejano: Cap. 6 Conclusiones
+[12:50 p. m., 28/5/2020] Germán Montejano: Cap. 7 Futuras Extensiones
+Ok
+Dejame trabajar sobre el 2 y 3
+Y te voy pasando
+[12:55 p. m., 28/5/2020] Germán Montejano: Referencias Bibliográficas al final (sin número de capítulo) en el cual vas a referenciar todo lo utilizado a lo largo de la escritura, todos los papers, informes, libros, etc que hayas utilizado para copiar y pegar en tu informe, así fuere solo un concepto, una definición, un gráfico.
+En el caso de ser algo que está en la web, además del título, autor, etc, hay que poner la URL y el día que se accedió (dado que es dinámico, a diferencia de cualquier material impreso, o digital pero el disco, en un futuro, el lector podría no encontrar la referencia en internet por el solo hecho que hayan modificado el sitio)
+[12:56 p. m., 28/5/2020] Germán Montejano: Ésto tenés que ir haciéndolo mientras vas redactando, sino después no podrás re-construirlo
+Bajar las páginas o solo los links?
+Con la fechas de acceso?
+[1:00 p. m., 28/5/2020] Germán Montejano: Cada vez que tomes algún contenido de algún lugar, aunque no sea una copia textual, sino que sea un concepto que lo usas para aprender o recordar o formalizar una idea vaga que ya tenés previamente, haces una cita entre corchetes del estilo: [1] 
+y abajo en "Referencias" pones los datos: autores, título, editorial, edición, año (si fuera un libro)
+[1:01 p. m., 28/5/2020] Germán Montejano: Mucho mejor si podés bajarlo, entonces citas el trabajo bajado y además la URL desde dónde lo bajaste y en qué fecha
+[1:02 p. m., 28/5/2020] Germán Montejano: Sólo que algunos sitios te dejan leer pero no bajar o imprimir
+Ok
+

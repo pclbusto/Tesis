@@ -1,2 +1,45 @@
 capitulo 3 - Tecnologias usadas
 
+
+html - pagina - CMS portal o sitio web de artware
+
+Hoy en día son pocas las sitaciones donde se crean paginas web desde cero. Antes de la existencia de los sitemas de gestión de contenidos. Si se requería crear una sitio web, había que armar todo de forma muy artesanal y lo que esto implicaba. Manter las referencias, el aspecto general del sitio. Debdio a estas limitaciones se crearon estas herramientas cuya principal funcinalidad es la de proveer al desarrollador de una plataforma donde poder armar una estructura escalable para poder administrar y gestionar contenido sin tener que preocuparse sobre su publicación o enlaces contra los documentos ya existente en el sistema. De esta manera el usuario solo se preocupa por lo que tiene que escribir y dejan al administrador de contenido que se encargue del resto. El sitio de la empresa Artware SRL. Esta desarrollado en esta plataforma y hubo que enteder parte de esta plataforma para poder extenderla. Para esto, wordpress permite la creacion de plugins que basicamente son fragmentos codigos en este caso PHP y html que peritieron extender la funcionalidad del sitio web proveyendo de una ventana de chat.
+ 
+java script y html para armar cliente que puede ser enbevido en una pagina web y poder consumir el servicio de chat
+
+Para el armado de la interfaz visual se utilizó html. el cual es un lenguaje con que se utiliza para contruir lo que se ve en un navegador. El problema con el html es que es un lenguaje que permite mostrar contenido de forma estática. Como es lógico en un chat se tiene contenido dinámico, por los mensajes que se envían y se reciben era necesario tener dinamismo, para esta parte se utilizó JavaScript, este lenguaje actualmente es ampliamente utilizado para enviar y recibir información del servidor junto con ayuda de otras tecnologías como AJAX.
+
+
+Servicios web el servicio de chat es un servicio web que se consume desde el cliente
+
+Un servicio web es un sistema software diseñado para soportar la interacción máquina-a-máquina, a través de una red, de forma interoperable. Cuenta con una interfaz descrita en un formato procesable por un equipo informático (específicamente en WSDL), a través de la que es posible interactuar con el mismo mediante el intercambio de mensajes SOAP, típicamente transmitidos usando serialización XML sobre HTTP conjuntamente con otros estándares web.
+Previo a hablar sobre el servicio de chat es importante ver esta tecnología. Ya que el chatbot no es mas que un servicio web el cual recibe mensajes los interpreta y en base a lo que se interpreta emite una respuesta. 
+los servicios web aportan los siguientes beneficios
+    Aportan interoperabilidad entre aplicaciones de software independientemente de sus propiedades o de las plataformas sobre las que se instalen.
+    Los servicios Web fomentan los estándares y protocolos basados en texto, que hacen más fácil acceder a su contenido y entender su funcionamiento.
+    Permiten que servicios y software de diferentes compañías ubicadas en diferentes lugares geográficos puedan ser combinados fácilmente para proveer servicios integrados.
+    
+ 
+Azure - ecosistema provisto por microsoft para poder realizar infinidades de tareas. Van de proveedr espacio en la nube para almacenamiento de datos, a publicacion de servicios.
+
+Azure es un servicios en la nube. el cual es un paradigma que combina una gran variedad de tecnologias. Entre las que se encuentran:
+
+* Servicios de almacenamiento
+* Servicios de hosting
+* Servicios de virtualizacion
+* Servicios de computos
+* Servicios de Software los cuales en vez de pagar por una licencia y tener instalado el software en forma local. Se paga una suscripción de mucho menor importe y se permite acceder a un determido software por un tiempo.
+
+Este tipo de tecnologia esta tomando mucha fuerza en estos ultimos años. Uno de los casos mas recientes fue Google Stadia el cual es un servicio de suscripcion para juegos de videos. Lo interesante de este tipo de servicios o tecnologias es que para las empresas desarrolladoras de juegos de videos es que no tienen que volver a preocuparse por los recursos que el desarrollo de un juego pudiera requerir. Asi como tampoco los usuarios o futuros jugadoresy solo tener el ancho de banda suficiente para poder hacer el streaming a la computadora cliente ya que el procesamiento se hace en los servidores de google.
+Microsoft provee este tipo de servicios y se le llama azure. De esta plataforma se utiló el servicio de hosting y de computo. El primero para poder desplegar el servicio de bot y el segundo para poder interpretar el texto de los chat, escrito por los usuarios.
+
+ 
+
+
+Chatbot - bot framework. entorno o estrucutura que permite el desarrollo de un chatbot.
+ *  
+
+
+del abanico de tecnologias que provee miscrosoft para el trabajo con inteligencia artificial usamos uno que se llama LUIS. Esto permite construir un servicio en el cual una maquina puede entender el lenguaje natural y en base a eso realizar algun tipo de respuesta.
+
+	
