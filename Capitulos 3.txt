@@ -1,5 +1,12 @@
 capitulo 3 - Tecnologias usadas
 
+HTML
+JS
+C# o Python (ver si es necesario rearmar el bot)
+Json
+Rest
+API
+IA - LUIS
 
 html - pagina - CMS portal o sitio web de artware
 

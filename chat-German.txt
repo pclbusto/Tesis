@@ -20,7 +20,7 @@ Ok
 Dejame trabajar sobre el 2 y 3
 Y te voy pasando
 [12:55 p. m., 28/5/2020] Germán Montejano: Referencias Bibliográficas al final (sin número de capítulo) en el cual vas a referenciar todo lo utilizado a lo largo de la escritura, todos los papers, informes, libros, etc que hayas utilizado para copiar y pegar en tu informe, así fuere solo un concepto, una definición, un gráfico.
-En el caso de ser algo que está en la web, además del título, autor, etc, hay que poner la URL y el día que se accedió (dado que es dinámico, a diferencia de	 cualquier material impreso, o digital pero el disco, en un futuro, el lector podría no encontrar la referencia en internet por el solo hecho que hayan modificado el sitio)
+En el caso de ser algo que está en la web, además del título, autor, etc, hay que poner la URL y el día que se accedió (dado que es dinámico, a diferencia de cualquier material impreso, o digital pero el disco, en un futuro, el lector podría no encontrar la referencia en internet por el solo hecho que hayan modificado el sitio)
 [12:56 p. m., 28/5/2020] Germán Montejano: Ésto tenés que ir haciéndolo mientras vas redactando, sino después no podrás re-construirlo
 Bajar las páginas o solo los links?
 Con la fechas de acceso?
