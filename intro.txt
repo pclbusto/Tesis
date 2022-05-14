@@ -1,0 +1,39 @@
+
+Introducción
+
+Los chatbots permiten reemplazar algunas de las interacciones entre dos personas, introduciendo un software capaz de prestar servicio al cliente de forma automática. Según cifras de American Express, los clientes están dispuestos a gastar un 17% en empresas con una atención al cliente excepcional. Uno de los puntos clave en esta nueva visión de la atención al cliente digitalizada es la implantación de un robot inteligente chat. Algunos de sus beneficios incluyen:
+ 
+1. Responden de forma casi inmediata: muchas veces cuando necesitamos hacer alguna consulta en atencion al cliente nos encontramos con un mensaje del estilo que todo el personal se encuentra ocupado dando la opción de que el cliente llame mas tarde o dejar un mail o nro de telefono para retornar la llamada. El chatbot tiene esta ventaja de poder estar atendiendo a varios clientes al mismo tiempo. 
+2. Permiten sustituir a un equipo conectado las 24 horas: un chat no tiene que cumplir 8 o X cantidad de horas. Está disponible las 24hs los siete días de la semana. La idea con esto es permitir que el chatbot se encargue o tome consulta de baja complejidad y permitir al equipo poder tener mas tiempo para enfocarse en los casos complejos.
+3. Cada vez más personalizados y avanzados: El desarrollo del Procesamiento del Lenguaje Natural (NLP por sus siglas en inglés) está permitiendo que los chatbots puedan responder a mensajes más complejos, simulando el lenguaje que utilizan los usuarios de acuerdo al contexto. Además, el chat de inteligencia artificial puede enviar links o imágenes que puedan ser de ayuda al usuario. También son capaces de recopilar información, de modo que pueden ofrecer respuestas más completas y personalizadas, aprendiendo de interacciones anteriores. 
+4. Recopilan datos para optimizar la atención: los mismos procesos que tratan de resolver pueden ser usados para mejorar su desempeño.
+5. Parte de una estrategia omnicanal: con el aumento de las redes sociales ya no se tiene un solo canal por el cual los actuales o futuros clientes pueden requerir realizar alguna consulta. Esta herramienta se puede instalar en varios lugares, desde una página web de ecommerce, a contestar los mensajes privados o comentarios en las redes sociales, además de apps de mensajería como WhatsApp. 
+6. Diferentes opciones ajustables a lo que busca el negocio: Las empresas pueden elegir el tipo de chatbot que mejor se ajuste a sus necesidades: desde chatbots sofisticados que trabajen con Inteligencia Artificial y proporcionen respuestas exhaustivas, a otros con respuestas más generales, que funcionen como una especie de respuesta a preguntas frecuentes (como la sección FAQ en las webs).
+7. Es la forma de comunicación preferida para algunos: Según cifras de Comm100, la generación de Millenials prefieren interactuar con un robot inteligente chat por encima de cualquier otro canal de comunicación en atención al cliente. Se trata de una estadística importante, teniendo en cuenta que es un sector demográfico para las compras online, entre otros aspectos.  
+8. Demuestran interés por la atención al cliente y la innovación: Implementar un chat de inteligencia artificial demuestra que una empresa apuesta por resolver las dudas del cliente de la forma más eficaz posible y de un modo proactivo. Además, es prueba igualmente de la capacidad de innovación de la empresa y su lugar en la transformación digital.
+
+Muchas de estas razones fueron las que Artware S.R.L. se plenteó para la implementación de Arturo.
+
+
+
+
+¿Porquá Chatbots?
+
+Cuando se decide usar y contruir un chatbot, es importante entender dos cosas : 
+* como se ve
+* que es lo que hace.
+
+Seguramente los nombres Siri, IBM Watson, Google Allo, Alex les suenen familiar. El problema que estos "bots" tratan de resolver es convertirse en un intermediario y ayudar al usuario a ser mas productivo. Logran esto permitiendo que el usuario se preocupe menos por el cómo la informacion va a ser recuperada y enfocarlo en la forma de la entrada que es necesaria para alcanzar una dato en particular. Los bots van ganando mas y mas percepción a medida que reciben mas entradas y uno tiende a tener una buena opinión de un bot porque nos da lo que le pedimos.
+Hoy muchos navegadores tiene la posibilidad de guardar credenciales, mails, nombres, número de documento. Esto de alguna manera intenta bajar un poco la molestia que uno siente cuando tiene que ingresar una y otra vez toda esta informacion. Información que es necesaria para comprar una entrada al cine, programar un vuelo, armar una reunión o pedir comida. Un bot tiene esta capacidad y un extra, tiene cierta inteligencia para usar de esa información lo que necesita y donde se necesita y además de ésto la comunicación con el mismo se hace en nuestro lenguaje lo que comunmente en ciencias de la computación se denomina lenguaje natural.
+
+Chatbots development is way easier than it was a few years ago, but chatbots did exist
+decades ago as well; however, the popularity of chatbots has increased exponentially in
+last few years.
+If you are a technical person or have some idea of how a web application or mobile
+application works, then you must have heard the term APIs. Any kind of data that
+you need today is available to be consumed in the form of APIs provided by different
+service providers and institutions. If you are looking for weather information, booking
+tickets, ordering food, getting flight information, converting one language to another, or
+posting on Facebook or Twitter, all of this can be done using APIs. These APIs are used
+by web- or mobile-based applications to do these tasks. Chatbots can also use these
+APIs to achieve the same tasks based on our requests.
