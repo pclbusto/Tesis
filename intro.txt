@@ -17,7 +17,7 @@ Muchas de estas razones fueron las que Artware S.R.L. se plenteó para la implem
 
 
 
-¿Porquá Chatbots?
+¿Porquá Chatbots ahora?
 
 Cuando se decide usar y contruir un chatbot, es importante entender dos cosas : 
 * como se ve
@@ -25,15 +25,5 @@ Cuando se decide usar y contruir un chatbot, es importante entender dos cosas :
 
 Seguramente los nombres Siri, IBM Watson, Google Allo, Alex les suenen familiar. El problema que estos "bots" tratan de resolver es convertirse en un intermediario y ayudar al usuario a ser mas productivo. Logran esto permitiendo que el usuario se preocupe menos por el cómo la informacion va a ser recuperada y enfocarlo en la forma de la entrada que es necesaria para alcanzar una dato en particular. Los bots van ganando mas y mas percepción a medida que reciben mas entradas y uno tiende a tener una buena opinión de un bot porque nos da lo que le pedimos.
 Hoy muchos navegadores tiene la posibilidad de guardar credenciales, mails, nombres, número de documento. Esto de alguna manera intenta bajar un poco la molestia que uno siente cuando tiene que ingresar una y otra vez toda esta informacion. Información que es necesaria para comprar una entrada al cine, programar un vuelo, armar una reunión o pedir comida. Un bot tiene esta capacidad y un extra, tiene cierta inteligencia para usar de esa información lo que necesita y donde se necesita y además de ésto la comunicación con el mismo se hace en nuestro lenguaje lo que comunmente en ciencias de la computación se denomina lenguaje natural.
-
-Chatbots development is way easier than it was a few years ago, but chatbots did exist
-decades ago as well; however, the popularity of chatbots has increased exponentially in
-last few years.
-If you are a technical person or have some idea of how a web application or mobile
-application works, then you must have heard the term APIs. Any kind of data that
-you need today is available to be consumed in the form of APIs provided by different
-service providers and institutions. If you are looking for weather information, booking
-tickets, ordering food, getting flight information, converting one language to another, or
-posting on Facebook or Twitter, all of this can be done using APIs. These APIs are used
-by web- or mobile-based applications to do these tasks. Chatbots can also use these
-APIs to achieve the same tasks based on our requests.
+Si bien el desarrollo de chatbots se ha simplificado en comparación de un par de años atrás, estos existen desde hace varias decadas. Sin embargo la popularidad de estos ha crecido exponencialmente estos últimos años.
+Hoy muchas de las aplicaciones web o mobiles usan algo conocido como API que en ingles significa Application Programming Interfaces on interfaz de programación de aplicaciones en español. Actualmente la mayoria de las aplicaciones web proveen esto, servicios meteorologicos, cines, teatros, restoranes, aerolineas, Facebook o twitter y muchos aplicaciones mas. Esto ha permitido un nivel de conectividad o interacción como nunca antes visto y los chatbots hcen uso de esto también.
