@@ -1,0 +1,65 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc1
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Liberation Sans;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green255\blue255;}
+{\stylesheet
+{\s6\fi-431\li720\sbasedon28\snext28 Contents 1;}
+{\s7\fi-431\li1440\sbasedon28\snext28 Contents 2;}
+{\s1\fi-431\li720 Arrowhead List;}
+{\s27\fi-431\li720\sbasedon28 Lower Roman List;}
+{\s29\tx431\sbasedon20\snext28 Numbered Heading 1;}
+{\s30\tx431\sbasedon21\snext28 Numbered Heading 2;}
+{\s12\fi-431\li720 Diamond List;}
+{\s9\fi-431\li2880\sbasedon28\snext28 Contents 4;}
+{\s8\fi-431\li2160\sbasedon28\snext28 Contents 3;}
+{\s31\tx431\sbasedon22\snext28 Numbered Heading 3;}
+{\s32\fi-431\li720 Numbered List;}
+{\s15\sbasedon28 Endnote Text;}
+{\*\cs14\fs20\super Endnote Reference;}
+{\s4\fi-431\li720 Bullet List;}
+{\s5\tx1584\sbasedon29\snext28 Chapter Heading;}
+{\s35\fi-431\li720 Square List;}
+{\s11\fi-431\li720 Dashed List;}
+{\s22\sb440\sa60\f1\fs24\b\sbasedon28\snext28 Heading 3;}
+{\s37\fi-431\li720 Tick List;}
+{\s24\fi-431\li720 Heart List;}
+{\s40\fi-431\li720\sbasedon32 Upper Roman List;}
+{\s39\fi-431\li720\sbasedon32 Upper Case List;}
+{\s16\fi-288\li288\fs20\sbasedon28 Footnote;}
+{\s19\fi-431\li720 Hand List;}
+{\s18\fs20\sbasedon28 Footnote Text;}
+{\s20\sb440\sa60\f1\fs34\b\sbasedon28\snext28 Heading 1;}
+{\s21\sb440\sa60\f1\fs28\b\sbasedon28\snext28 Heading 2;}
+{\s10\qc\sb240\sa120\f1\fs32\b\sbasedon28\snext28 Contents Header;}
+{\s23\sb440\sa60\f1\fs24\b\sbasedon28\snext28 Heading 4;}
+{\s28\f0\fs24 Normal;}
+{\s26\fi-431\li720\sbasedon32 Lower Case List;}
+{\s2\li1440\ri1440\sa120\sbasedon28 Block Text;}
+{\s33\f2\sbasedon28 Plain Text;}
+{\s34\tx1584\sbasedon29\snext28 Section Heading;}
+{\s25\fi-431\li720 Implies List;}
+{\s3\fi-431\li720 Box List;}
+{\s36\fi-431\li720 Star List;}
+{\*\cs17\fs20\super Footnote Reference;}
+{\s38\fi-431\li720 Triangle List;}
+{\s13\fi-288\li288\sbasedon28 Endnote;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\*\rdf}{\info\uc1{\title\uc1 Tesis Licenciatura en Ciencias de la computaci\u243 ?n}{\author pedro busto}{\company pedro busto}{\doccomm\uc1 tesis de licenciatura en ciencias de la computacion. Informe sobre trabajo desarollado para importante cadena de tiendas que quer\u237 ?a evaluar las quejas de sus clientes sin tener que poner personal a clasificarlas
+}{\category Tesis}}\deftab720\viewkind1\paperw11905\paperh16837\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\abinodiroverride\ltrch Tesis Licenciatura en Ciencias de la computaci\'f3n}{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\abinodiroverride\ltrch Este trabajo es un informe sobre un trabajo que fue solicitado por un cliente que administraba tiendas muy grandes y de muchos rubros. Esta empresa cuenta con un sistema en el cual puede hacer la queja o descargo mediante texto informando donde fue que tuvo una mala experiencia en la visita a la tienda o la compra de alg\'fan producto. Esta encuesta se carga de forma an\'f3nima y no tiene tipificaci\'f3n alguna sobre el tipo de queja. El departamento encargado de atenci\'f3n al cliente creo 20 categor\'edas en la cuales se puede clasificar la encuesta emitida por los clientes. Hasta el momento que en el que este cliente nos visito la forma de evaluar estas encuestas era destinar horas hombres para poder la clasificaci\'f3n de las mismas. Esto presentaba varios inconvenientes desde el tiempo que los empleados se tomaban para leer las encuestas clasificarlas y enviarlas. No todos lo hac\'edan al mismo ritmo, criterio. Como resultado de la implementaci\'f3n de esta soluci\'f3n se gener\'f3 una respuesta tard\'eda al cliente para poder hacer los ajustes pertinentes y poder brindar una mejor atenci\'f3n.}{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\abinodiroverride\ltrch Al entender la problem\'e1tica del cliente los que le ofrecimos fue un clasificador de encuesta. B\'e1sicamente es un sistema mediante el uno usuario recog\'eda las encuestas de todas las sucursales del pa\'eds y mediante un servicio web sub\'eda dicha lista de encuesta. Este servicio recibe esta lista las clasifica y le retorna la misma lista pero con cada queja catalogada en base al criterio planteado por ellos.}{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\abinodiroverride\ltrch El cliente necesitaba una respuesta r\'e1pida y efectiva para la problem\'e1tica planteada. En el siguiente informe vamos explicar que fue lo que se le termin\'f3 dando al cliente mediante el conjunto de herramientas que Microsoft esta ofreciendo respecto a este tipo de problemas y vamos a desarrollar los distintos procesos y  partes que componen una soluci\'f3n de este tipo. Si bien las herramientas de Microsoft simplifican el trabajo haciendo muchas de las partes de forma autom\'e1tica la idea de este informe es ver un poco por debajo de esto que cosas est\'e1n involucradas.}{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s28\itap0{\s28\f0\fs24\lang1034{\*\listtag0}\par}}
